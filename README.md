@@ -1,8 +1,8 @@
 # README
 
-This is a template repository for running [Wordpress](https://wordpress.org) on Render.
+This is a template repository for running [Pydio Cells](https://pydio.com/en/pydio-cells/overview) on Render.
 
-* It uses the [official Wordpress Docker image](https://hub.docker.com/_/wordpress/).
+* It uses the [official Pydio Cells Docker image](https://hub.docker.com/r/pydio/cells).
 
 * [Render Disks](https://render.com/docs/disks) provide fast, persistent SSD storage for content storage.
 
@@ -10,4 +10,4 @@ This is a template repository for running [Wordpress](https://wordpress.org) on 
 
 ## Deployment
 
-See https://render.com/docs/deploy-wordpress.
+
