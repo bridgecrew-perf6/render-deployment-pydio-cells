@@ -6,4 +6,9 @@ services:
   disk:
     name: cellsdir
     mountPath: /var/cells
-    sizeGB: 20
+    sizeGB: 20    
+  envVars:
+    - key: CELLS_LOG_LEVEL
+      value: production
+    - key: CELLS_NO_TLS
+      value: 1
